@@ -1,1 +1,1 @@
-# Lab-6-
+​In this lab, I worked on implementing Linear Regression using Python in a Google Colab environment. The process involved loading and cleaning the USA Housing dataset, performing Exploratory Data Analysis (EDA) to visualize relationships between features, and then training the model using Scikit-Learn. I also focused on splitting the data into training and testing sets to evaluate the model's accuracy and performance.
